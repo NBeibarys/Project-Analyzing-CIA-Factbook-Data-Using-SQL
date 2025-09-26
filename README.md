@@ -1,7 +1,7 @@
 [![Open in Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange?logo=jupyter)](Project.ipynb)   
 
 # World Factbook Data Analysis
-This project explores global socioeconomic and demographic indicators using the CIA World Factbook dataset. The goal is to extract meaningful insights about population, geography, and economic development across countries, while also practicing SQL-driven analysis and Python visualization techniques.
+This project explores global socioeconomic and demographic indicators using the CIA World Factbook dataset. The goal is to extract meaningful insights about population, geography, and other indicators across countries, while also practicing SQL-driven analysis. 
 
 ## Project Structure
 - `Project.ipynb` - Jupyter Notebook with SQL code.
