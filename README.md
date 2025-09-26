@@ -8,7 +8,7 @@ This project explores global socioeconomic and demographic indicators using the 
 - `factbook.db` - SQLite database containing World Factbook data (population, GDP, area, resources, etc.).
 
 ## Key Insights
-- Identified outliers (e.g., World, Antarctica) and built a clean dataset to avoid skewed results.
+- Inspected outliers (e.g., World, Antarctica) and built a clean dataset to avoid skewed results.
 
 - Analyzed population growth trends, pinpointing regions with rapid demographic pressure.
 
