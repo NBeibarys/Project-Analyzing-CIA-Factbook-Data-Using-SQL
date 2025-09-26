@@ -8,13 +8,10 @@ This project explores global socioeconomic and demographic indicators using the 
 - `factbook.db` - SQLite database containing World Factbook data (population, GDP, area, resources, etc.).
 
 ## Key Insights
-- Inspected outliers (e.g., World, Antarctica) and built a clean dataset to avoid skewed results.
-
-- Analyzed population growth trends, pinpointing regions with rapid demographic pressure.
-
-- Identified countries with the highest and lowest population densities, showing striking global contrasts.
-
-- Identified nations with natural population decline (death rate > birth rate), interpreting results with unit-aware rigor.
+- Inspected outliers (e.g., World, Antarctica) using SQL and built a clean dataset, ensuring accurate and unbiased population analysis.
+- Analyzed population growth trends with SQL aggregations to pinpoint regions facing rapid demographic pressure, supporting policy and planning insights.
+- Calculated and compared population densities across 200+ countries, revealing striking global contrasts and highlighting high-risk, high-density regions.
+- Identified nations with natural population decline by contrasting death and birth rates, interpreting results with unit-aware rigor to avoid misrepresentations
   
 ## Tools & Technologies
  - **SQL** 
