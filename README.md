@@ -15,8 +15,6 @@ This project explores global socioeconomic and demographic indicators using the 
 - Identified countries with the highest and lowest population densities, showing striking global contrasts.
 
 - Identified nations with natural population decline (death rate > birth rate), interpreting results with unit-aware rigor.
-
-- Implemented SQL best practices (CTEs, safe division, filtering NULLs/zeros) to ensure reproducibility and reliability.
   
 ## Tools & Technologies
  - **SQL** 
